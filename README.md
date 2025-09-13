@@ -49,7 +49,7 @@ Tree/
 
 1. **Projeyi klonlayın:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/mustafa-altuntas/MyTree
    ```
 
    ```bash
@@ -71,7 +71,7 @@ Tree/
 
 1. **Projeyi klonlayın:**
    ```bash
-   git clone <repo-url>>
+   git clone https://github.com/mustafa-altuntas/MyTree
    ```
 
    ```bash
