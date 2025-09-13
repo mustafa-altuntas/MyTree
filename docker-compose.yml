@@ -1,0 +1,9 @@
+services:
+  mytree-app:
+    build: .
+    container_name: mytree-container
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./src/sozluk.txt:/app/src/sozluk.txt:ro
+    restart: unless-stopped
